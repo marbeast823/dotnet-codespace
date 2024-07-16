@@ -481,3 +481,16 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 .azure
+SampleApp/FrontEnd/wwwroot/css/open-iconic/FONT-LICENSE
+SampleApp/FrontEnd/wwwroot/css/open-iconic/FONT-LICENSE
+SampleApp/FrontEnd/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+SampleApp/FrontEnd/wwwroot/css/site.css
+SampleApp/FrontEnd/wwwroot/css/open-iconic/FONT-LICENSE
+SampleApp/FrontEnd/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css
+SampleApp/FrontEnd/wwwroot/css/open-iconic/font/fonts/open-iconic.eot
+SampleApp/FrontEnd/wwwroot/css/open-iconic/font/fonts/open-iconic.otf
+*.svg
+*.ttf
+*.woff
+SampleApp/FrontEnd/wwwroot/css/open-iconic/ICON-LICENSE
+SampleApp/FrontEnd/wwwroot/css/open-iconic/README.md
